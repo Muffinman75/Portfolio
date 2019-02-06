@@ -4,24 +4,27 @@
 .projectPic:hover {
   cursor: pointer;
 }
-.portfolioText .demoText {
+p {
   font-family: "PT Sans", sans-serif;
   padding: 3%;
 }
 .navText .bioText {
-  font-family: "PT Sans", sans-serif;
 }
 .navLink1 {
   color: #59f8e8;
+  font-family: "PT Sans", sans-serif;
 }
 .navLink2 {
   color: #f4d35e;
+  font-family: "PT Sans", sans-serif;
 }
 .navLink3 {
   color: #fdc5f5;
+  font-family: "PT Sans", sans-serif;
 }
 .navLink4 {
   color: #ee964b;
+  font-family: "PT Sans", sans-serif;
 }
 .home-logo {
   max-width: 30%;
@@ -29,7 +32,7 @@
 .heading {
   font-family: "PT Sans", sans-serif;
 }
-.home-logo-text .sectionHeading {
+h1 h2 {
   font-family: "Staatliches", cursive;
 }
 .project {
@@ -45,11 +48,11 @@
 }
 .footer {
   width: 100%;
+  color: #fafafa;
 }
 .info {
   margin: 0;
   padding-top: 1%;
   padding-bottom: 1%;
   background-color: #1b5e20;
-  color: inherit;
 }
