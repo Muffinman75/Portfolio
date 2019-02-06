@@ -4,11 +4,9 @@
 .projectPic:hover {
   cursor: pointer;
 }
-.portfolio {
-  background-color: light-grey;
-}
 .portfolioText {
   background-color: #c0c3c6;
+  padding: 3%;
 }
 .home-logo {
   max-width: 30%;
@@ -18,6 +16,7 @@
 .project {
   margin-bottom: 30px;
   border: 2px grey solid;
+  background-color: light-grey;
 }
 .demoLink {
   margin: 5px;
