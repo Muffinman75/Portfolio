@@ -1,10 +1,11 @@
 .bioPic {
-  border: 4px #941c2f solid;
+  border: 7px #388e3c solid;
 }
 .projectPic:hover {
   cursor: pointer;
 }
 .portfolioText {
+  font-family: "PT Sans", sans-serif;
   background-color: #c0c3c6;
   padding: 3%;
 }
@@ -12,6 +13,7 @@
   max-width: 30%;
 }
 .home-logo-text {
+  font-family: "Staatliches", cursive;
 }
 .project {
   margin-bottom: 30px;
