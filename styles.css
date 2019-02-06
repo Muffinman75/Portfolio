@@ -71,15 +71,12 @@ a {
 
 a:visited {
   color: inherit;
-}
+} */
 
 #portfolio {
-  padding-top: 200px;
-  width: 970px;
-  margin: 0 auto;
-  text-align: center;
+  border: 2px grey solid;
 }
-#resume {
+/* #bio {
   padding-top: 200px;
   margin: 0 auto;
   text-align: center;
