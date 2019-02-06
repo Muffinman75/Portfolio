@@ -53,5 +53,6 @@ h1 h2 {
   background-color: #1b5e20;
 }
 .footerText {
+  padding: 7px;
   color: #fafafa;
 }
