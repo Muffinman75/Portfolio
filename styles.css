@@ -72,7 +72,15 @@ a {
 a:visited {
   color: inherit;
 } */
-
+.bioPic {
+  border-top: light-red;
+  border-bottom: green;
+  border-left: yellow;
+  border-right: light-blue;
+}
+.section {
+  background-color: light-grey;
+}
 #portfolio {
   border: 2px grey solid;
 }
