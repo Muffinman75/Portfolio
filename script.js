@@ -10,5 +10,5 @@ $(".jumper").on("click", function(e) {
 });
 
 $(document).ready(function() {
-  $(sidenav).sidenav();
+  $("sidenav").sidenav();
 });
