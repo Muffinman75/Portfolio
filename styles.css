@@ -81,7 +81,7 @@ a:visited {
 .section {
   background-color: light-grey;
 }
-#portfolio {
+.project {
   border: 2px grey solid;
 }
 /* #bio {
