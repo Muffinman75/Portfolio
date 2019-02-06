@@ -43,10 +43,13 @@
 .demoLink {
   margin: 5px;
 }
+.footer {
+  width: 100%;
+}
 .info {
   margin: 0;
-  padding-top: 1.5%;
-  padding-bottom: 1.5%;
+  padding-top: 1%;
+  padding-bottom: 1%;
   background-color: #1b5e20;
-  color: #ffffff;
+  color: inherit;
 }
