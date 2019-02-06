@@ -1,14 +1,19 @@
 .bioPic {
-  border-top: light-red;
-  border-bottom: green;
-  border-left: yellow;
-  border-right: light-blue;
+  border: 4px #941c2f solid;
 }
 .projectPic:hover {
   cursor: pointer;
 }
-.section {
+.portfolio {
   background-color: light-grey;
+}
+.portfolioText {
+  background-color: #c0c3c6;
+}
+.home-logo {
+  max-width: 30%;
+}
+.home-logo-text {
 }
 .project {
   margin-bottom: 30px;
@@ -16,4 +21,7 @@
 }
 .demoLink {
   margin: 5px;
+}
+.info {
+  margin: 0;
 }
