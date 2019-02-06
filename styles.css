@@ -46,13 +46,12 @@ h1 h2 {
 .demoLink {
   margin: 5px;
 }
-.footer {
-  width: 100%;
-}
 .info {
   margin: 0;
   padding-top: 1%;
   padding-bottom: 1%;
   background-color: #1b5e20;
+}
+.footerText {
   color: #fafafa;
 }
