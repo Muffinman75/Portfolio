@@ -1,13 +1,15 @@
 .bioPic {
-  border: 7px #388e3c solid;
+  border: 7px #1b5e20 solid;
 }
 .projectPic:hover {
   cursor: pointer;
 }
-.portfolioText {
+.portfolioText .demoText {
   font-family: "PT Sans", sans-serif;
-  background-color: #c0c3c6;
   padding: 3%;
+}
+.navText {
+  font-family: "PT Sans", sans-serif;
 }
 .home-logo {
   max-width: 30%;
@@ -18,7 +20,10 @@
 .project {
   margin-bottom: 30px;
   border: 2px grey solid;
-  background-color: light-grey;
+  background-color: #c0c3c6;
+}
+.demoText {
+  color: #2979ff;
 }
 .demoLink {
   margin: 5px;
