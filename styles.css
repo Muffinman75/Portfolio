@@ -78,10 +78,14 @@ a:visited {
   border-left: yellow;
   border-right: light-blue;
 }
+.projectPic:hover {
+  cursor: pointer;
+}
 .section {
   background-color: light-grey;
 }
 .project {
+  margin-bottom: 20px;
   border: 2px grey solid;
 }
 /* #bio {
