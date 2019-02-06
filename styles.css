@@ -1,3 +1,8 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
 .bioPic {
   border: 7px #1b5e20 solid;
 }
