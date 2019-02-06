@@ -8,3 +8,7 @@ $(".jumper").on("click", function(e) {
     600
   );
 });
+
+$(document).ready(function() {
+  $(sidenav).sidenav();
+});
