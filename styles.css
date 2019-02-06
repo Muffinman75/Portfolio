@@ -8,13 +8,28 @@
   font-family: "PT Sans", sans-serif;
   padding: 3%;
 }
-.navText {
+.navText .bioText {
   font-family: "PT Sans", sans-serif;
+}
+.navLink1 {
+  color: #59f8e8;
+}
+.navLink2 {
+  color: #f4d35e;
+}
+.navLink3 {
+  color: #fdc5f5;
+}
+.navLink4 {
+  color: #ee964b;
 }
 .home-logo {
   max-width: 30%;
 }
-.home-logo-text {
+.heading {
+  font-family: "PT Sans", sans-serif;
+}
+.home-logo-text .sectionHeading {
   font-family: "Staatliches", cursive;
 }
 .project {
@@ -30,4 +45,8 @@
 }
 .info {
   margin: 0;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  background-color: #1b5e20;
+  color: ;
 }
