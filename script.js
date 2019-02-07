@@ -3,7 +3,7 @@ $(".jumper").on("click", function(e) {
 
   $("body, html").animate(
     {
-      scrollTop: $($(this).attr("href='#'")).offset().top
+      scrollTop: $($(this).attr("href*=\\#")).offset().top
     },
     600
   );
