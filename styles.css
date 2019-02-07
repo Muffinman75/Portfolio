@@ -31,6 +31,18 @@ p {
   color: #ee964b;
   font-family: "PT Sans", sans-serif;
 }
+.sidenavLink1 {
+  color: #0277bd;
+}
+.sidenavLink2 {
+  color: #ffea00;
+}
+.sidenavLink3 {
+  color: #ff4081;
+}
+.sidenavLink4 {
+  color: #fb8c00;
+}
 .home-logo {
   max-width: 30%;
 }
