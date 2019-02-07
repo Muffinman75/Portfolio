@@ -68,6 +68,9 @@ h1 h2 {
   padding-top: 1%;
   padding-bottom: 1%;
 } */
+footer ul > li {
+  text-align: right;
+}
 .footerText {
   padding: 7px;
   color: #fafafa;
