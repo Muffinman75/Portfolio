@@ -70,11 +70,11 @@ h1 h2 {
 .footerEmail {
   float: left;
 }
-/* @media screen and (max-width: 600px) {
+@media screen and (min-width: 600px) {
   footer ul > li {
     text-align: left;
   }
-} */
+}
 /* @media screen and (max-width: 991px) {
   .footerEmail .footerLinks {
     display: inline-block;
@@ -83,5 +83,8 @@ h1 h2 {
     text-align: right;
   }
 } */
-/* @media screen and (min-width: 991px) {
-} */
+@media screen and (min-width: 991px) {
+  footer ul > li {
+    text-align: right;
+  }
+}
