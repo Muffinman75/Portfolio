@@ -60,6 +60,9 @@ h1 h2 {
 .demoLink {
   margin: 5px;
 }
+.demoText {
+  color: #00b0ff;
+}
 .row {
   margin-bottom: 0;
 }
