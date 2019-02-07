@@ -6,14 +6,19 @@ html {
 .bioPic {
   border: 7px #1b5e20 solid;
 }
+.bioPicContainer {
+  max-width: 45%;
+}
 .projectPic:hover {
   cursor: pointer;
 }
-p {
+.navText,
+.bioText,
+.portfolioText {
   font-family: "PT Sans", sans-serif;
-  padding: 3%;
 }
-.navText .bioText {
+.portfolioText {
+  padding: 3%;
 }
 .navLink1 {
   color: #59f8e8;
@@ -33,15 +38,19 @@ p {
 }
 .sidenavLink1 {
   color: #0277bd;
+  font-family: "PT Sans", sans-serif;
 }
 .sidenavLink2 {
   color: #ffea00;
+  font-family: "PT Sans", sans-serif;
 }
 .sidenavLink3 {
   color: #ff4081;
+  font-family: "PT Sans", sans-serif;
 }
 .sidenavLink4 {
   color: #fb8c00;
+  font-family: "PT Sans", sans-serif;
 }
 .home-logo {
   max-width: 30%;
@@ -49,7 +58,9 @@ p {
 .heading {
   font-family: "PT Sans", sans-serif;
 }
-.home-logo-text .heading .sectionHeading {
+.home-logo-text,
+.heading,
+.sectionHeading {
   font-family: "Staatliches", cursive;
 }
 .project {
@@ -61,7 +72,7 @@ p {
   margin: 5px;
 }
 .demoText {
-  color: #00b0ff;
+  color: #01579b;
 }
 .row {
   margin-bottom: 0;
@@ -80,6 +91,9 @@ p {
   footer ul > li {
     text-align: left;
   }
+  .bioPicContainer {
+    max-width: 25%;
+  }
 }
 /* @media screen and (max-width: 991px) {
   .footerEmail .footerLinks {
@@ -92,5 +106,8 @@ p {
 @media screen and (min-width: 991px) {
   footer ul > li {
     text-align: right;
+  }
+  .bioPicContainer {
+    max-width: 28%;
   }
 }
