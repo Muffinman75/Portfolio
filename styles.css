@@ -70,12 +70,12 @@ h1 h2 {
 @media screen and (max-width: 600px) {
   .footerEmail .footerLinks {
     float: left;
-    display: block;
+    display: inline-block;
   }
 }
 @media screen and (max-width: 991px) {
   .footerEmail .footerLinks {
-    display: inline;
+    display: inline-block;
   }
 }
 /* @media screen and (min-width: 991px) {
