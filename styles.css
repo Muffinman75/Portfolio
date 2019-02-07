@@ -81,7 +81,7 @@ h1 h2 {
     display: inline-block;
   }
   footer ul > li {
-    text-align: left;
+    text-align: right;
   }
 }
 /* @media screen and (min-width: 991px) {
