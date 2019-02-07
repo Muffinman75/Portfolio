@@ -67,18 +67,21 @@ h1 h2 {
   padding: 7px;
   color: #fafafa;
 }
-@media screen and (max-width: 600px) {
+.footerEmail {
+  float: left;
+}
+/* @media screen and (max-width: 600px) {
   footer ul > li {
     text-align: left;
   }
-}
-@media screen and (max-width: 991px) {
+} */
+/* @media screen and (max-width: 991px) {
   .footerEmail .footerLinks {
     display: inline-block;
   }
   footer ul > li {
     text-align: right;
   }
-}
+} */
 /* @media screen and (min-width: 991px) {
 } */
