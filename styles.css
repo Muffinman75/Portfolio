@@ -13,9 +13,11 @@ html {
   cursor: pointer;
 }
 .navText,
-.bioText,
 .portfolioText {
   font-family: "PT Sans", sans-serif;
+}
+.bioText {
+  font-family: "Oswald", sans-serif;
 }
 .portfolioText {
   padding: 3%;
@@ -87,6 +89,10 @@ html {
 .footerLinks {
   clear: right;
 }
+h3 {
+  font-size: 1.92rem;
+  font-family: "Oswald", sans-serif;
+}
 @media screen and (min-width: 600px) {
   footer ul > li {
     text-align: left;
@@ -95,14 +101,6 @@ html {
     max-width: 25%;
   }
 }
-/* @media screen and (max-width: 991px) {
-  .footerEmail .footerLinks {
-    display: inline-block;
-  }
-  footer ul > li {
-    text-align: right;
-  }
-} */
 @media screen and (min-width: 991px) {
   footer ul > li {
     text-align: right;
